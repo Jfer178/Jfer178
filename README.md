@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&height=80&lines=Desarrollador+de+Software;Desarrollador+Web+y+Móvil;Frontend+Developer+%7C+Backend+Developer;Apasionado+por+crear+soluciones+tecnológicas">
 </p>
 
-
-
 ## 👨‍💻 Sobre mí
 
 Soy **Desarrollador de Software** con enfoque en **Frontend** y bases sólidas en **Backend**, orientado a la creación de interfaces modernas, rápidas, responsivas y centradas en el usuario.
@@ -27,7 +25,7 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
 - ✨ Estudiante de **Ingeniería de Sistemas**
 - ✨ Desarrollador de Software con enfoque en **Frontend y Bases solidas en Backend**
 - ✨ Fortaleciendo conocimientos en **Inteligencia Artificial, Cloud Computing y automatización**
-- ✨ Trabajando con soluciones de IA local usando **Ollama y modelos como LLaVA**
+- ✨ Trabajando con soluciones aplicando IA usando **Ollama y modelos Enterprise**
 - ✨ Interesado en **UI/UX, desarrollo Web y Movil,  APIs, bases de datos y arquitectura limpia**
 - ✨ Abierto a colaboraciones, proyectos tecnológicos e iniciativas de innovación
 
@@ -48,7 +46,7 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
 
 ### Frontend
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
@@ -59,35 +57,57 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
+### Mobile
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</p>
+
 ### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-### Bases de datos
+### Bases de Datos
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+### Inteligencia Artificial y Automatización
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/LLaVA-6A5ACD?style=for-the-badge&logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Web%20Scraping-2E8B57?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### Herramientas
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
-
 ---
 
 ## 📚 Formación
@@ -136,14 +156,21 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
 
 ## 💻 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jfer178&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jfer178&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<table align="left">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jfer178&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" height="190"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jfer178&layout=compact&langs_count=12&theme=tokyonight&hide_border=false" height="190"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jfer178&theme=tokyonight&hide_border=true"/>
+<br clear="left"/>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Jfer178&theme=tokyonight&hide_border=false" height="190"/>
 </p>
 
 ---

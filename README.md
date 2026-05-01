@@ -150,6 +150,8 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
 
 ## 🐍 Contribuciones
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Jfer178/Jfer178/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---

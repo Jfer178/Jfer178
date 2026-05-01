@@ -1,67 +1,46 @@
 <h1 align="center">
-  ¡Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> Soy Jeremy Fontalvo
+  ¡Hola! 👋 Soy Jeremy Fontalvo
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&height=80&lines=Desarrollador+de+Software;Frontend+Developer+%7C+Backend+Foundations;React+%7C+Node.js+%7C+PostgreSQL+%7C+IA+Local;Apasionado+por+crear+soluciones+tecnológicas">
+  <img src="https://drive.google.com/uc?export=view&id=1Bgk6nsTRGKjxNSPwcA4K1ZEsDVZ8XkSp" alt="Jeremy Banner" width="100%">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" alt="Programando">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&height=80&lines=Desarrollador+de+Software;Desarrollador+Web+y+Móvil;Frontend+Developer+%7C+Backend+Developer;Apasionado+por+crear+soluciones+tecnológicas">
+</p>
+
+
 
 ## 👨‍💻 Sobre mí
 
 Soy **Desarrollador de Software** con enfoque en **Frontend** y bases sólidas en **Backend**, orientado a la creación de interfaces modernas, rápidas, responsivas y centradas en el usuario.
 
-Tengo experiencia trabajando con tecnologías como **React, Angular, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap, Node.js, Django, Python, PostgreSQL, MySQL y Oracle**.
+Tengo experiencia trabajando con tecnologías web y móviles como **React, Angular, Next.js, Flutter, Dart, Android Studio, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap, Node.js, Django, Python, PostgreSQL, MySQL y Oracle**.
 
-Me interesa el desarrollo de soluciones escalables, la automatización de procesos, la integración de inteligencia artificial local y la construcción de productos digitales con impacto real.
-
-Actualmente soy estudiante de **Ingeniería de Sistemas** en la **Universidad Libre Seccional Barranquilla** y me desempeño como **IEEE Student Branch Chair** en IEEE Unilibre Barranquilla.
+Me interesa el desarrollo de soluciones escalables, la automatización de procesos, la integración de inteligencia artificial y la construcción de productos digitales con impacto real.
 
 ---
 
-## 🚀 Actualmente
+## Conocimientos
 
-- 🎓 Estudiante de **Ingeniería de Sistemas**
-- 💼 Desarrollador de Software con enfoque en **Frontend**
-- 🌱 Fortaleciendo conocimientos en **Backend, Inteligencia Artificial, Cloud Computing y automatización**
-- 🤖 Trabajando con soluciones de IA local usando **Ollama y modelos como LLaVA**
-- 🧠 Interesado en **UI/UX, desarrollo web, APIs, bases de datos y arquitectura limpia**
-- 👀 Abierto a colaboraciones, proyectos tecnológicos e iniciativas de innovación
-
----
-
-## 🧩 Proyectos destacados
-
-### 🧠 REST — Aplicación móvil de acompañamiento emocional universitario
-
-Aplicación móvil desarrollada con **Flutter**, backend en **Python** y base de datos **PostgreSQL**, orientada al seguimiento del bienestar emocional de estudiantes universitarios.
-
-Incluye módulos de inteligencia artificial para generar recomendaciones personalizadas de bienestar emocional, con enfoque en accesibilidad, experiencia de usuario y acompañamiento académico.
+- ✨ Estudiante de **Ingeniería de Sistemas**
+- ✨ Desarrollador de Software con enfoque en **Frontend y Bases solidas en Backend**
+- ✨ Fortaleciendo conocimientos en **Inteligencia Artificial, Cloud Computing y automatización**
+- ✨ Trabajando con soluciones de IA local usando **Ollama y modelos como LLaVA**
+- ✨ Interesado en **UI/UX, desarrollo Web y Movil,  APIs, bases de datos y arquitectura limpia**
+- ✨ Abierto a colaboraciones, proyectos tecnológicos e iniciativas de innovación
 
 ---
 
-### 🏫 Sistema de Planeación y Gestión de Espacios Académicos Universitarios
+## 🧩 Proyectos Destacados
 
-Sistema administrativo universitario con interfaz modular desarrollada en **React** y backend híbrido basado en **Node.js** y **Django**.
-
-Incluye integración de chatbot automatizado mediante flujos en **N8N**, conexión con **PostgreSQL** y una arquitectura pensada para optimizar procesos internos académicos.
-
----
-
-### ♻️ Greenity — Localización de puntos de reciclaje
-
-Plataforma web para gestionar inventarios y localizar puntos de reciclaje.
-
-Desarrollada con **HTML, CSS, JavaScript, Bootstrap y PostgreSQL**, incorporando automatización con **Python**, web scraping y chatbot en **N8N** para facilitar consultas dentro del sistema.
-
----
-
-### 👁️ PraxVision — Sistema web de detección inteligente con IA local
-
-Aplicación web que permite cargar imágenes desde el navegador y obtener detecciones automáticas mediante inteligencia artificial ejecutada localmente con **Ollama** y el modelo **LLaVA**.
-
-Cuenta con frontend en **HTML, CSS y JavaScript**, y backend en **Node.js**, permitiendo integrar capacidades inteligentes sin depender de servicios externos.
+| Proyecto | Descripción | Repositorio |
+|---------|------------|------------|
+| 🧠 **REST** | App móvil de bienestar emocional universitario con Flutter + IA + PostgreSQL. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| 🏫 **Sistema Académico** | Plataforma universitaria para gestión de espacios con React + Node.js + Django. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| ♻️ **Greenity** | Plataforma web de reciclaje con inventario, scraping y automatización. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| 👁️ **PraxVision** | Sistema web con IA local para análisis de imágenes usando Ollama + LLaVA. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
 
 ---
 
@@ -155,18 +134,16 @@ Cuenta con frontend en **HTML, CSS y JavaScript**, y backend en **Node.js**, per
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jfer178&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jfer178&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jfer178&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jfer178&show_icons=true&theme=github_dark&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jfer178&theme=github_dark&hide_border=true&layout=compact&langs_count=10">
+  <img src="https://streak-stats.demolab.com?user=Jfer178&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -174,11 +151,5 @@ Cuenta con frontend en **HTML, CSS y JavaScript**, y backend en **Node.js**, per
 ## 🐍 Contribuciones
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌟 Frase favorita
-
-> “La constancia, la curiosidad y el aprendizaje continuo convierten las ideas en soluciones reales.”
 
 ---

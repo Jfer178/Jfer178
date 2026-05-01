@@ -35,10 +35,10 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
 
 | Proyecto | Descripción | Repositorio |
 |---------|------------|------------|
-| 🧠 **REST** | App móvil de bienestar emocional universitario con Flutter + IA + PostgreSQL. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
-| 🏫 **Sistema Académico** | Plataforma universitaria para gestión de espacios con React + Node.js + Django. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
-| ♻️ **Greenity** | Plataforma web de reciclaje con inventario, scraping y automatización. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
-| 👁️ **PraxVision** | Sistema web con IA local para análisis de imágenes usando Ollama + LLaVA. | <a href="https://github.com/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| 🧠 **REST** | App móvil de bienestar emocional universitario con Flutter + IA + PostgreSQL. | <a href="https://github.com/sheydazz/RESTAPP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| 🏫 **Sistema Académico** | Plataforma universitaria para gestión de espacios con React + Node.js + Django. | <a href="https://github.com/winsignares/SIHUL" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| ♻️ **Greenity** | Plataforma web de reciclaje con inventario, scraping y automatización. | <a href="https://github.com/LeoBarraza0/Greenity" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
+| 👁️ **PraxVision** | Sistema web con IA local para análisis de imágenes usando Ollama + LLaVA. | <a href="https://github.com/Jfer178/PraxVision" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver%20Proyecto-181717?style=for-the-badge&logo=github"></a> |
 
 ---
 

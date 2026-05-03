@@ -24,7 +24,7 @@ Me interesa el desarrollo de soluciones escalables, la automatización de proces
 
 - ✨ Estudiante de **Ingeniería de Sistemas**
 - ✨ Desarrollador de Software con enfoque en **Frontend y Bases solidas en Backend**
-- ✨ Fortaleciendo conocimientos en **Inteligencia Artificial, Cloud Computing y automatización**
+- ✨ Fortaleciendo conocimientos en **Inteligencia Artificial, Cloud Computing, Ciberseguridad y automatización**
 - ✨ Trabajando con soluciones aplicando IA usando **modelos Enterprise**
 - ✨ Interesado en **UI/UX, desarrollo Web y Movil,  APIs, bases de datos y arquitectura limpia**
 - ✨ Abierto a colaboraciones, proyectos tecnológicos e iniciativas de innovación
